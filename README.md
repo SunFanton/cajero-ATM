@@ -33,3 +33,9 @@ Las interfaces gráficas mencionadas son:
 
 - Ventana Transferencia:
   En esta interfaz, el usuario puede transferir a una cuenta imaginaria una determinada cantidad de dinero de su cuenta ficticia.
+  
+  //--------------------VENTANA INICIO----------------------//
+  
+  ![Screenshot](images/screenshot1.png)
+  
+  
