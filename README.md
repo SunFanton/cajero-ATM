@@ -36,6 +36,6 @@ Las interfaces gráficas mencionadas son:
   
   //--------------------VENTANA INICIO----------------------//
   
-  ![Screenshot](images/screenshot1.png)
+  ![Screenshot](screenshots/screenshot1.png)
   
   
