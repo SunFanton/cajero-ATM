@@ -1,5 +1,6 @@
 # cajero-ATM
-Programa simple con las funciones más importantes de un cajero automático (ATM)
+Programa simple con las funciones más importantes de un cajero automático (ATM) perteneciente a la entidad ficticia FC Bank
+(cualquier relación de este nombre con la realidad es pura coincidencia)
 
 El proyecto consta de seis ventanas o interfaces gráficas. Cada una de ellas, aunque no esté conectada a una base de datos real, 
 fue pensada con la idea de emular el funcionamiento básico de un cajero automático, con la simplicidad y rapidez que 
@@ -38,4 +39,23 @@ Las interfaces gráficas mencionadas son:
   
   ![Screenshot](screenshots/screenshot1.png)
   
+  //--------------------VENTANA MENÚ----------------------//
   
+   ![Screenshot](screenshots/screenshot2.png)
+   
+    //--------------------VENTANA SALDO----------------------//
+    
+    ![Screenshot](screenshots/screenshot3.png)
+  
+   //--------------------VENTANA EXTRACCIÓN----------------------//
+   
+    ![Screenshot](screenshots/screenshot4.png)
+    
+    //--------------------VENTANA DEPOSITAR----------------------//
+   
+    ![Screenshot](screenshots/screenshot5.png)
+    
+    //--------------------VENTANA TRANSFERENCIA----------------------//
+   
+    ![Screenshot](screenshots/screenshot6.png)
+   
