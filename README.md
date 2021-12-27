@@ -35,6 +35,8 @@ Las interfaces gráficas mencionadas son:
 - Ventana Transferencia:
   En esta interfaz, el usuario puede transferir a una cuenta imaginaria una determinada cantidad de dinero de su cuenta ficticia.
   
+Pueden probar la ejecución del programa a través del archivo JAR ejecutable "ATM-FCBank (jar ejecutable)" que se encuentra en el repositorio.
+  
   //--------------------VENTANA INICIO----------------------//
   
   ![Screenshot](screenshots/screenshot1.png)
