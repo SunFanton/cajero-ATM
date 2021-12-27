@@ -47,7 +47,7 @@ disponible diferente mediante Math.random()
   
    ![Screenshot](screenshots/screenshot2.png)
    
-    //--------------------VENTANA SALDO----------------------//
+   //--------------------VENTANA SALDO----------------------//
     
    ![Screenshot](screenshots/screenshot3.png)
   
@@ -55,11 +55,11 @@ disponible diferente mediante Math.random()
    
    ![Screenshot](screenshots/screenshot4.png)
     
-    //--------------------VENTANA DEPOSITAR----------------------//
+   //--------------------VENTANA DEPOSITAR----------------------//
    
    ![Screenshot](screenshots/screenshot5.png)
     
-    //--------------------VENTANA TRANSFERENCIA----------------------//
+   //--------------------VENTANA TRANSFERENCIA----------------------//
    
    ![Screenshot](screenshots/screenshot6.png)
    
