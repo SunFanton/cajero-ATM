@@ -34,8 +34,7 @@ Las interfaces gráficas mencionadas son:
 
 - Ventana Transferencia:
   En esta interfaz, el usuario puede transferir a una cuenta imaginaria una determinada cantidad de dinero de su cuenta ficticia.
-  
-*Edit*
+
 Pueden probar la ejecución del programa a través del archivo JAR ejecutable "ATM-FCBank (jar ejecutable)" que se encuentra en el repositorio.
 Tengan en cuenta que en este archivo, para que sea más interactivo que la versión original, la clase GestorCuenta agrega en cada ingreso una cantidad de dinero 
 disponible diferente mediante Math.random()
@@ -50,17 +49,17 @@ disponible diferente mediante Math.random()
    
     //--------------------VENTANA SALDO----------------------//
     
-    ![Screenshot](screenshots/screenshot3.png)
+   ![Screenshot](screenshots/screenshot3.png)
   
    //--------------------VENTANA EXTRACCIÓN----------------------//
    
-    ![Screenshot](screenshots/screenshot4.png)
+   ![Screenshot](screenshots/screenshot4.png)
     
     //--------------------VENTANA DEPOSITAR----------------------//
    
-    ![Screenshot](screenshots/screenshot5.png)
+   ![Screenshot](screenshots/screenshot5.png)
     
     //--------------------VENTANA TRANSFERENCIA----------------------//
    
-    ![Screenshot](screenshots/screenshot6.png)
+   ![Screenshot](screenshots/screenshot6.png)
    
